@@ -1,0 +1,21 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'SketchFlow Print';
+    background-color: beige;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: azure;
+    background-color: blue;
+}
